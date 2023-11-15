@@ -1,0 +1,6 @@
+[submodule "packages/nextjs-frontend"]
+	path = packages/nextjs-frontend
+	url = git@github.com:ZHL603lab/test-web_nextjs-frontend.git
+[submodule "packages/nestjs-backend"]
+	path = packages/nestjs-backend
+	url = git@github.com:ZHL603lab/test-web_nestjs-backend.git
